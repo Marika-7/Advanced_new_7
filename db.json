@@ -1,0 +1,25 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "author": "Ivan",
+      "title": "Title 1",
+      "text": "some text 1",
+      "image": "image_4.jpg"
+    },
+    {
+      "author": "sgfdsgfdg",
+      "title": "fgd",
+      "text": "dfgsdfgg",
+      "image": "image_2.jpg",
+      "id": 2
+    },
+    {
+      "author": "dsgdfg",
+      "title": "dfgdfsg",
+      "text": "fgsgfdg",
+      "image": "image_4.jpg",
+      "id": 3
+    }
+  ]
+}
